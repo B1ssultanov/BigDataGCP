@@ -85,3 +85,6 @@ _ReSharper*/
 
 # Microsoft Office temporary files
 ~$*
+
+#Ignore files
+fiery-topic-414915-0dd7735c4180.json
