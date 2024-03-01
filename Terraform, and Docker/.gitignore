@@ -95,6 +95,7 @@ _ReSharper*/
 
 #Ignore GCP keys
 keys
+.ssh
 
 # Local .terraform directories
 **/.terraform/*

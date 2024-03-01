@@ -1,0 +1,20 @@
+-- Question 1
+-- 266855 rows x 20 columns
+
+-- Question 2
+-- SELECT * FROM mage.green_taxi; 
+-- 139,370 rows
+
+-- Question 3
+-- data['lpep_pickup_date'] = data['lpep_pickup_datetime'].dt.date
+
+-- Question 4
+-- SELECT DISTINCT vendor_id FROM mage.green_taxi;
+-- 1, 2
+
+-- Question 5
+-- SELECT * FROM mage.green_taxi.columns
+-- VendorID, RatecodeID, PULocationID, DOLocationID
+
+-- Question 6
+-- 96

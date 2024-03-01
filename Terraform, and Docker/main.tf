@@ -8,7 +8,7 @@ terraform {
 }
 
 provider "google" {
-#   credentials = "./keys/keys/fiery-topic-414915-0dd7735c4180.json"
+  credentials = "./keys/fiery-topic-414915-0dd7735c4180.json"
   project     = "fiery-topic-414915"
   region      = "us-central1"
 }
